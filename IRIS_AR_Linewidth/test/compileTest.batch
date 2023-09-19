@@ -1,0 +1,37 @@
+; lib
+.compile test/lib/irisARLwAvgIntyVarChk.pro
+.compile test/lib/irisARLwEchFit.pro
+.compile test/lib/irisARLwEchWth.pro
+.compile test/lib/irisARLwPlotEchRes.pro
+.compile test/lib/irisARLwEchIntyVary.pro
+.compile test/lib/irisARLwEchPkIntyRatio.pro
+.compile test/lib/irisARLwEchWthVary.pro
+.compile test/lib/irisARLwEchWidthChk.pro
+.compile test/lib/irisARLwAvgTheoryInty.pro
+.compile test/lib/irisARLwTheoryIntyFun.pro
+.compile test/lib/irisARLwEchPkIntyVary.pro
+
+
+.compile test/irisARLwAvgIntyVarChkAR.pro
+.compile test/irisARLwAvgIntyVarChkAll.pro
+.compile test/irisARLwEchFitSP.pro
+.compile test/irisARLwEchFitAll.pro
+.compile test/irisARLwEchIntyVaryAR.pro
+.compile test/irisARLwEchIntyVaryAll.pro
+.compile test/irisARLwEchIntyVaryQS.pro
+.compile test/irisARLwEchPkIntyRatioAR.pro
+.compile test/irisARLwEchPkIntyRatioAll.pro
+.compile test/irisARLwEchPkIntyRatioQS.pro
+.compile test/irisARLwEchWthAll.pro
+.compile test/irisARLwEchWthSP.pro
+.compile test/irisARLwEchWthVaryAR.pro
+.compile test/irisARLwEchWthVaryAll.pro
+.compile test/irisARLwEchWthVaryQS.pro
+.compile test/irisARLwEchWidthChkSP.pro
+.compile test/irisARLwAvgChkVelXs.pro
+.compile test/irisARLwAvgTheoryIntyAR.pro
+.compile test/irisARLwAvgTheoryTotI2PkI.pro
+.compile test/irisARLwEchPkIntyVaryAR.pro
+.compile test/irisARLwEchPkIntyVaryQS.pro
+
+mo_print, 'Test compile completed!'
