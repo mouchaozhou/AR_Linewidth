@@ -1,0 +1,26 @@
+; Iris data root directory
+sIrisDataRootDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Data/'
+
+; #region Save file directories
+sPrepedSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/DataPrep_PrepedData/' + sEvtNum + '/' + sLineID + '/' 
+
+sARMaskSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/FindAR_ARMask/' + sEvtNum + '/' + sLineID + '/'    
+
+sAvgSpFitSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgFitSP_FittingResults/' + sEvtNum + '/' + sLineID + '/'
+sAvgBgFitSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgFitBG_FittingResults/' + sEvtNum + '/' + sLineID + '/'
+sAvgAllFitSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgFitAll_FittingResults/' + sEvtNum + '/' + sLineID + '/'
+
+sAvgSpWthSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgWthSP_AverageSpWidth/' + sEvtNum + '/' + sLineID + '/'
+sAvgBgWthSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgWthBG_AverageBgWidth/' + sEvtNum + '/' + sLineID + '/'
+sAvgAllWthSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgWthAll_AverageAllWidth/' + sEvtNum + '/' + sLineID + '/'
+; #endregion
+
+; #region Image directories
+sLineRgImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/DataPrep_LineRange/' + sEvtNum + '/' + sLineID + '/' 
+
+sFindARCkImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/FindAR_FindARCheck/' + sEvtNum + '/' + sLineID + '/' 
+
+sAvgSpWthImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgWthSP_AverageSpWidth/' + sEvtNum + '/' + sLineID + '/'
+sAvgBgWthImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgWthBG_AverageBgWidth/' + sEvtNum + '/' + sLineID + '/'
+sAvgAllWthImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgWthAll_AverageAllWidth/' + sEvtNum + '/' + sLineID + '/'
+; #endregion

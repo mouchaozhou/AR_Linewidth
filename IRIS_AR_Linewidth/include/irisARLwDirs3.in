@@ -1,0 +1,9 @@
+; #region data file directories
+sAiaDataDir = '/sdata/moucz/Data/AIA/'
+; #endregion
+
+; #region Image directories
+sEventsImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/ShowEvents_ShowAllEvents/'
+
+sAvgPaperImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/PaperImg_PaperImage/'
+; #endregion

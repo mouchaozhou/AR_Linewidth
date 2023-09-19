@@ -1,0 +1,16 @@
+
+; Default image position with color bar and color bar position
+aDfImgWithBarPos = [0.25, 0.1, 0.75, 0.9]
+; Default image position
+aDfImgPosition = [.1, .1, .98, .98]
+
+; Default colorbar position
+aDfBarPosition = [0.85, 0.1, 0.88, 0.9]
+
+; Default PS file y size
+nDfPSY = !A4.y - 15
+
+nDfCharthick = 3.0
+nDfCharsize = 1.3
+nDfThick = 3.0 
+aDfXrange = [1.01, -0.01]

@@ -1,0 +1,15 @@
+; #region Save file directories
+sAvgARFitTauSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgPkIntyRatioAR_AverageFitARTau/'
+sAvgBGFitTauSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgPkIntyRatioBG_AverageFitBGTau/'
+sAvgQSFitTauSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgPkIntyRatioQS_AverageFitQSTau/'
+sAvgAllFitTauSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/AvgPkIntyRatioAll_AverageFitAllTau/'
+
+sDataTableTxtDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/DataTable_DataTable/'
+; #endregion
+
+; #region Image directories
+sAvgPkIntyRatVarImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgPkIntyRatio_AveragePeakIntensityRatioVariation/'
+sAvgWthVarImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgWthVary_AverageWidthVariation/' + sLineID + '/' 
+sAvgIntyVarImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgIntyVary_AverageIntensityVariation/' + sLineID + '/' 
+sAvgPkIntyVarImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgPkIntyVary_AveragePeakIntensityVariation/' + sLineID + '/' 
+; #endregion
