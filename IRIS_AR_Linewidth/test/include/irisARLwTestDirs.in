@@ -1,0 +1,12 @@
+; #region Save file directories
+sEchSpFitSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/EchFitSP_FittingResults/' + sEvtNum + '/' + sLineID + '/'
+sEchAllFitSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/EchFitAll_FittingResults/' + sEvtNum + '/' + sLineID + '/'
+
+sEchSpWthSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/EchWthSP_EachSpWidth/' + sEvtNum + '/' + sLineID + '/'
+sEchAllWthSavDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Save/EchWthAll_EachAllWidth/' + sEvtNum + '/' + sLineID + '/'
+; #endregion
+
+; #region Image directories
+sEchSpWthImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/EchWthSP_EachSpWidth/' + sEvtNum + '/' + sLineID + '/'
+sEchAllWthImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/EchWthAll_EachAllWidth/' + sEvtNum + '/' + sLineID + '/'
+; #endregion

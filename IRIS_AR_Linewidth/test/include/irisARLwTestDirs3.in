@@ -1,0 +1,4 @@
+sEchFitLogDir = 'test/log/'
+sAvgChkVelXsImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgChkVelXs_AverageCheckVelXs/'
+sAvgTheoryIntyImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgTheoryInty_AverageTheoryIntensity/'
+sAvgCmpTotI2PkIImgDir = '/sdata/moucz/AR_Linewidth/IRIS_AR_Linewidth/Image/AvgCmpTotI2PkI_AverageTheoryCmpTotI2PkI/'
