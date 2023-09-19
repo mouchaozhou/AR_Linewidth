@@ -1,0 +1,13 @@
+nStNum = 1     ; AR + QS 1394
+;nStNum = 86   ; AR + QS 1403
+
+;nEdNum = 418
+nEdNum = 461
+;nEdNum = nStNum
+
+nLineNum = 1    ; 1394
+;nLineNum = 2    ; 1403
+
+; Get the line ID
+sLineID = irisARLwLineID(nLineNum)
+
